@@ -21,6 +21,12 @@ Folder                   | Description
 
 s.no.| component Description | Quantity
 
-1. | Atmega328 p | 1
-2. | Resistors | 3
+-------------------------| -----------------------------------------
+
+
+1. |Atmega328 p | 1
+2. |Resistors | 3
+3. |Probe| 3
+4. |switches| 2
+5. |5V Battery| 1
 
