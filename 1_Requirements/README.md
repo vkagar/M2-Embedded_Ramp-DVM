@@ -29,3 +29,22 @@ It is Seat Heating System,it is capable of maintaining the temperature of the se
 * For being warm.
 # How
 *  System operates by changing the temperature.
+
+
+## Details requirements
+### High Level Requirements:
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | When the two switches are closed, the first LED glows indicating the actuation of the system and the heater. | Implemented
+|HLR2  | Next the analog input from the temperature sensor is received and digitized.| Implemented
+|HLR3  | The hard disk must be 4 GB . |	Implemented
+|HLR4  | The web browser must be Microsoft Internet Explorer with a resolution of at least 800 \* 600. |	Implemented
+
+#### Low Level Requirements:
+
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | The digitized temperature input is visualized using Pulse Width Modulation.| Implemented 
+| LLR2 | The system runs effectively on Windows 2000 server but it will also run equally well on compatible operating systems.  | Implemented
+| LLR3 | The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.| Implemented 
+ 
