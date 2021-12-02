@@ -18,3 +18,9 @@ Folder                   | Description
 `4_Testplan`       | Documents with test plans and procedures and Output
 `5_Report`               | Documentation of project
 `6_Imanges and Videos`      | Code Execution Images and vedios
+
+s.no.| component Description | Quantity
+
+1. | Atmega328 p | 1
+2. | Resistors | 3
+
