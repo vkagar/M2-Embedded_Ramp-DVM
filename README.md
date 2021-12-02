@@ -6,7 +6,7 @@
 It is Seat Heating System,it is capable of maintaining the temperature of the seat in vehicles.In the part of the world ,where temperature is low seat heater is a essential device ,it keeps a person warm.we are using button sensor and a heater switch to sense the presence of the person and the person can vary the temperature to his requirement.The corresponding temperature is displayed.
 
 # Badges 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/071bdedb6857447ba43063d2e30b0668)](https://www.codacy.com/gh/vkagar/M2-Embedded_Seat-Heating-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vkagar/M2-Embedded_Seat-Heating-System&amp;utm_campaign=Badge_Grade) | [![CI](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/main.yml/badge.svg)](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/main.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/071bdedb6857447ba43063d2e30b0668)](https://www.codacy.com/gh/vkagar/M2-Embedded_Seat-Heating-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vkagar/M2-Embedded_Seat-Heating-System&amp;utm_campaign=Badge_Grade) | [![CI](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/main.yml/badge.svg)](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/main.yml) | [![cppcheck-action-test](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vkagar/M2-Embedded_Seat-Heating-System/actions/workflows/cppcheck.yml)
 
 
 ## Folder Structure
