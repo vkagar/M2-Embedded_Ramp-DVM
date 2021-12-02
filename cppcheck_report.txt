@@ -1,0 +1,38 @@
+3_Implementation/src/Activity3.c:18:12: style: Unsigned expression 'temp' can't be negative so it is unnecessary to test it. [unsignedPositive]
+    if(temp>=0 && temp<=200){
+           ^
+3_Implementation/src/Activity3.c:20:21: error: Uninitialized variable: PWM_20_PERCENT [uninitvar]
+            OCR1A = PWM_20_PERCENT;
+                    ^
+3_Implementation/src/Activity3.c:25:22: error: Uninitialized variable: PWM_40_PERCENT [uninitvar]
+             OCR1A = PWM_40_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:30:22: error: Uninitialized variable: PWM_70_PERCENT [uninitvar]
+             OCR1A = PWM_70_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:35:22: error: Uninitialized variable: PWM_95_PERCENT [uninitvar]
+             OCR1A = PWM_95_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:19:22: style: Variable 'PWM_20_PERCENT' is not assigned a value. [unassignedVariable]
+            uint16_t PWM_20_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:24:22: style: Variable 'PWM_40_PERCENT' is not assigned a value. [unassignedVariable]
+            uint16_t PWM_40_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:29:22: style: Variable 'PWM_70_PERCENT' is not assigned a value. [unassignedVariable]
+            uint16_t PWM_70_PERCENT;
+                     ^
+3_Implementation/src/Activity3.c:34:22: style: Variable 'PWM_95_PERCENT' is not assigned a value. [unassignedVariable]
+            uint16_t PWM_95_PERCENT;
+                     ^
+3_Implementation/src/Activity4.c:23:16: style: Unsigned expression 'temp' can't be negative so it is unnecessary to test it. [unsignedPositive]
+        if(temp>=0 && temp<=200){
+               ^
+3_Implementation/src/Activity4.c:3:0: style: The function 'USARTInit' is never used. [unusedFunction]
+
+^
+3_Implementation/src/Activity4.c:11:0: style: The function 'USARTRead' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
