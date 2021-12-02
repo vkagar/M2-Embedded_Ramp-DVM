@@ -21,11 +21,14 @@ Folder                   | Description
 
 ## Bill.
 
-s.no.| component Description | Quantity
+S.NO.                |  Components Description
 -------------------------| -----------------------------------------
-1. |Atmega328 p | 1 |
-2. |Resistors | 3 |
-3. |Probe| 3 |
-4. |switches| 2 |
-5. |5V Battery| 1 |
+`1.`         | Diode
+`2.`         | Atmega328p
+`3.`     | Probe
+`4.`       | 5v battery
+`5.`               | Switches
+
+
+
 
