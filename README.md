@@ -19,14 +19,13 @@ Folder                   | Description
 `5_Report`               | Documentation of project
 `6_Imanges and Videos`      | Code Execution Images and vedios
 
+## Bill.
+
 s.no.| component Description | Quantity
-
 -------------------------| -----------------------------------------
-
-
-1. |Atmega328 p | 1
-2. |Resistors | 3
-3. |Probe| 3
-4. |switches| 2
-5. |5V Battery| 1
+1. |Atmega328 p | 1 |
+2. |Resistors | 3 |
+3. |Probe| 3 |
+4. |switches| 2 |
+5. |5V Battery| 1 |
 
