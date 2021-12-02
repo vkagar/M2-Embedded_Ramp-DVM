@@ -21,13 +21,14 @@ Folder                   | Description
 
 ## Bill.
 
-S.NO.                |  Components Description
--------------------------| -----------------------------------------
-`1.`         | Diode
-`2.`         | Atmega328p
-`3.`     | Probe
-`4.`       | 5v battery
-`5.`               | Switches
+S.NO.                |  Components Description  | Quantity
+-------------------------| -----------------------------------------|-------------------------
+`1.`         | Diode | 1
+`2.`         | Atmega328p | 1
+`3.`     | Probe | 2
+`4.`       | 5v battery | 1
+`5.`               | Switches | 2
+ 
 
 
 
